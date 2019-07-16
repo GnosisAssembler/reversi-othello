@@ -1,4 +1,4 @@
-# Reversi-Othelo
+# reversi-othelo
 
 > An implementation of the Reversi game (Othello) with Python and the Mini Max Algorithm
 
